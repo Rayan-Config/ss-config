@@ -36,7 +36,7 @@ def main():
     logger.info("Starting config fetch process")
 
     urls = [
-        "ssconf://ainita.s3.eu-north-1.amazonaws.com/AinitaServer-1.csv",
+        "ssconf://replic1.rgwebservice.ru/api/conf/0x23653f5d#🟢TakeVPN (@takevpn_bot)",
         "ssconf://ainita.s3.eu-north-1.amazonaws.com/AinitaServer-2.csv",
         "ssconf://ainita.s3.eu-north-1.amazonaws.com/AinitaServer-3.csv",
         "ssconf://ainita.s3.eu-north-1.amazonaws.com/AinitaServer-4.csv"
